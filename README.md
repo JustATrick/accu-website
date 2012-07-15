@@ -15,3 +15,11 @@ committee meeting, which will be sometime in September.
 
 * **Q. How much prioritization should we have done by then?** Moscow?
 * **Q. How much feasibility work should we have done by then?**
+
+## User Types / "Stakeholders"
+
+*   Member
+*   Non-Member
+*   Editors
+    *    Committee Members
+    *    Journal Editors
