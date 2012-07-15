@@ -20,10 +20,9 @@ committee meeting, which will be sometime in September.
 
 *   Member
 *   Non-Member
-*   Editors
-    *    Committee Members
-    *    Journal Editors
-   
+*   Editor
+    *    Committee Member
+    *    Journal Editor
 
 ## Functions
 
