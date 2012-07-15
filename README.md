@@ -23,3 +23,30 @@ committee meeting, which will be sometime in September.
 *   Editors
     *    Committee Members
     *    Journal Editors
+   
+
+## Functions
+
+### Member Account Info
+
+### Articles
+
+### Mailing Lists
+
+### Book Reviews
+
+### Conference
+
+### ACCU Admin
+
+### Events
+
+### Mentored Developer Projects
+
+## Non Functions
+
+### Backup/Restore
+
+### Reliability
+
+### Development
