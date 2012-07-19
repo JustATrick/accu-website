@@ -190,8 +190,29 @@ continue to support the same one?
 
 ### Backup/Restore
 
+We'd like confidence that we can recover from a disaster. We're in the dark
+about current practices.
+
 ### Reliability
+
+We believe there's only one (virtual?) server running the site + mailing lists.
+Is this sufficient?
 
 ### Payment Processing
 
+The current WorldPay system mostly just works. We hand off all payment detail
+processing to WorldPay, so I don't believe we need to worry about
+[PCI-DSS](https://www.pcisecuritystandards.org/merchants/). Are there any
+reasons for looking for others to add to the mix?
+
 ### Development
+
+We should have access to the code, and a build system to run up a version of
+the site for testing and development. We mustn't use live user's data for this,
+so it is different from taking a backup and restoring it elsewhere.
+
+### Security
+
+Currently we don't use HTTPS. All usernames, passwords and subscription
+information (name + addresses etc.) are sent over HTTP in the clear. A
+(prospective-?) member once mentioned they didn't like that.
