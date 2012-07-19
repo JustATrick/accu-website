@@ -170,6 +170,10 @@ articles? e.g. experience reports...
 
 ### Mentored Developer Projects
 
+We could probably use some help working out what's needed here (Paul G?). All
+past projects have a mailing list, some had wikis (possibly hosted off-site),
+and some produced articles at output.
+
 ## Non Functions
 
 ### Backup/Restore
