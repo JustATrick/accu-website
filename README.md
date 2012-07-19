@@ -158,6 +158,16 @@ photos and contact details. We should make minutes and agenda available here.
 
 ### Events
 
+We have a calendar, but it's not really used. We should have one. We'd like to
+see conferences and local meetings here, and other stuff of interest. Maybe
+anyone can contribute, but entries are reviewed before publishing? We should
+have a way to highlight upcoming events (probably on the homepage). We imagined
+that we'd be showing title, description, url, location, date & time and
+organiser for each event.
+
+Articles will be able to link to events, should events be able to link back to
+articles? e.g. experience reports...
+
 ### Mentored Developer Projects
 
 ## Non Functions
