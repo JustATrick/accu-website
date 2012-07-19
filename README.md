@@ -144,6 +144,13 @@ the queue too long.
 
 ### Conference
 
+This bit of the site is one of the most successful. Other than a wish that it
+looked more modern, we imagined improvements where we could view the sessions
+in different ways: either via the schedule, or browse/search by session title,
+speaker. We could make more of the videos and slides that we have after a
+conference - we should certainly link to them, and if we could embed then it
+would add some colour to the site.
+
 ### ACCU Admin
 
 ### Events
