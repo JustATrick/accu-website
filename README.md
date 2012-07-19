@@ -126,6 +126,22 @@ can join.
 
 ### Book Reviews
 
+The book review homepage is a boring looking search box. It hides that we have
+~1900 book reviews. We'd like to an attractive, frequently changing, display of
+new/topical reviews at the entry point. Then easy ways to search and browse the
+collection, by title, author, subject, journal...
+
+We should allow members (non-members?) to post book reviews direct to the site
+(whether they got the book from us or not). They'll need to be reviewed by an
+editor before they go live. We wished for a workflow system for reviewing
+submissions, where editors can claim an entry to review and either
+accept/reject/return to queue. And an alert system for items that have been in
+the queue too long.
+
+#### User Stories
+
+(Maybe - do we think these are useful?)
+
 ### Conference
 
 ### ACCU Admin
