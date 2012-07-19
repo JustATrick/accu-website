@@ -63,9 +63,10 @@ I suspect that doing a new membership system would take a lot of effort.
 
 ### Mailing Lists
 
-The current mailing lists sit outside of the CMS-backed website, and are managed
-by Mailman. This means that we found lists that we know exist were not shown on the
-website. Also, it's hard to ensure that only authorised members can join.
+The current mailing lists sit outside of the CMS-backed website, and are
+managed by Mailman. This means that we found lists that we know exist were not
+shown on the website. Also, it's hard to ensure that only authorised members
+can join.
 
 #### User Stories
 
