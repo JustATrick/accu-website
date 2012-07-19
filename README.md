@@ -23,8 +23,11 @@ committee meeting, which will be sometime in September.
 *   Editor
     *    Committee Member
     *    Journal Editor
+    *    Conference Committee Chair (Members?)
 *   Membership Secretary
 *   Mailing List Moderator
+*   Advertisers
+*   Advertising Officer
 
 ## Functions
 
