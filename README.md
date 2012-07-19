@@ -28,6 +28,7 @@ committee meeting, which will be sometime in September.
 *   Mailing List Moderator
 *   Advertisers
 *   Advertising Officer
+*   Local Group Organisers
 
 ## Functions
 
@@ -173,6 +174,13 @@ articles? e.g. experience reports...
 We could probably use some help working out what's needed here (Paul G?). All
 past projects have a mailing list, some had wikis (possibly hosted off-site),
 and some produced articles at output.
+
+### Other stuff
+
+We briefly looked at the links and blog feed (where we aggregate blog entries
+from elsewhere) sections. I don't think we had strong feelings about them - if we're to have them we really need them to be updateable, and to have someone to look after them.
+
+I don't think we discussed the local groups page. Do they need more support? More pages, articles and events, all under control of the group organiser?
 
 ## Non Functions
 
