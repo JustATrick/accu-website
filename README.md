@@ -182,6 +182,10 @@ from elsewhere) sections. I don't think we had strong feelings about them - if w
 
 I don't think we discussed the local groups page. Do they need more support? More pages, articles and events, all under control of the group organiser?
 
+Advertising - is Seb selling space on the site? Does he need to administer
+campaigns? Is he using an ad-serving platform to do that, and do we need to
+continue to support the same one?
+
 ## Non Functions
 
 ### Backup/Restore
