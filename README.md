@@ -153,6 +153,9 @@ would add some colour to the site.
 
 ### ACCU Admin
 
+We noted the constitution page. We should have details of the committee with
+photos and contact details. We should make minutes and agenda available here.
+
 ### Events
 
 ### Mentored Developer Projects
