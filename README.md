@@ -61,6 +61,40 @@ I suspect that doing a new membership system would take a lot of effort.
 
 ### Articles
 
+We saw a little of how difficult it is to add an article, and how the result is
+plain and boring. We imagined that initially all committee members and members
+of the journal teams should be able to easily post news articles. Ideally the
+journal articles would be available to the system in the same way as news
+articles (though CVu will be behind the paywall), rather than being tucked away
+in an archive.
+
+#### User Stories
+
+* As a Non-Member I want to see a selection of articles to get a feel for what
+  ACCU is about.
+
+* As a Non-Member I want to see a recently curated selection of articles so I
+  can see that ACCU is alive.
+
+* As a Non-Member I want to be able to find articles I might be interested in.
+
+* As a ? I want Non-Members to see that paywalled articles exist, and a little
+  about them, so they can see a benefit of joining.
+
+* As an Editor I want to import all the journal article archives so that I
+  have a rich selection from which I can choose material to promote.
+
+* As an Editor I want to automatically create articles from each issue of the
+  journals so that I always have fresh material to promote.
+
+* As an Editor I want to add new articles so I can publish news.
+
+* As an Editor I want to be able to create rich articles with images and
+  consistent formatting, so that I can be proud of my work.
+
+* As an Editor I want to be able to easily curate a selection of articles so I
+  can keep it fresh.
+
 ### Mailing Lists
 
 The current mailing lists sit outside of the CMS-backed website, and are
