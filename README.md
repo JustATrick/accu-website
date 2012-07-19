@@ -71,6 +71,8 @@ journal articles would be available to the system in the same way as news
 articles (though CVu will be behind the paywall), rather than being tucked away
 in an archive.
 
+(Sorry about the 'curation' nonsense - I'm trying to prevent premature focus on a single homepage. We will have articles linked to from the homepage, but eventually we could have a separate articles page, or a page for each journal, or a set of topic pages...)
+
 #### User Stories
 
 * As a Non-Member I want to see a selection of articles to get a feel for what
